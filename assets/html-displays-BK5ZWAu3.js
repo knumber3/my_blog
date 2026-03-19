@@ -6,6 +6,7 @@ blog: HTML和CSS\r
 blog-id: html-css\r
 slug: html-displays\r
 date: 2025-12-31\r
+lastUpdated: 2025-12-31\r
 ---\r
 \r
 # HTML 中的不同 display 布局\r

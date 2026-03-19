@@ -6,6 +6,7 @@ blog: 算法基础\r
 blog-id: basic-algorithm\r
 slug: big-o-notation\r
 date: 2026-1-8\r
+lastUpdated: 2026-1-9\r
 ---\r
 \r
 # 算法复杂度 （Big O notation）\r
